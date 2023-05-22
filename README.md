@@ -1,6 +1,6 @@
 # NLP
 
-Cotents are as follow;
+Contents are as follow;
 
 Module 1 An Introduction to Word Embeddings
 
